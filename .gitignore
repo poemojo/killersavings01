@@ -158,7 +158,7 @@ $RECYCLE.BIN/
 [Ll]ibrary/
 
 Assets/3DForge/
-Assets/Medieval Town/
+Assets/StaticAssets/materials/shaders/builtin/
 
 *.csproj
 *.unityproj
